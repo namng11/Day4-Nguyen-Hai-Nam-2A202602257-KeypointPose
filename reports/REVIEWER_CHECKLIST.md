@@ -1,6 +1,6 @@
 # Reviewer checklist - điền khi kiểm bài người khác
 
-Người gán: ______   Người kiểm: ______   Ngày: ______
+**Lưu ý: Bài tập được làm cá nhân.** (Người gán: Nguyễn Hải Nam - Ngày: 16/9/2026)
 
 Chạy trước khi soi bằng mắt:
 
